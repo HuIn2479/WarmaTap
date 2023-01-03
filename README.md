@@ -1,5 +1,6 @@
 
-# Warmatap   
+
+# Warmatap
 
 由 Mikutap 进行二次创作
 
@@ -9,11 +10,19 @@
 
 二次创作 MonianHello 2022.4
 
-# 版权说明  
+
+
+**更新说明**
+
+2023.1更新，由于Jsdelivr CDN在大陆无法正常访问，已经将资源改为本地
+
+
+
+# 版权说明
 
 声音素材已获得B站UP主Warma授权
 
-遵循原作者的说明，作品仅用于非盈利的公共使用用途，无需告知  
+遵循原作者的说明，作品仅用于非盈利的公共使用用途，无需告知
 
 商业用途请直接联系作者，[详情](https://aidn.jp/about/)
 
@@ -24,8 +33,8 @@ daniwell@aidn.jp
 http://exittunes.com/license/
 ```
 
+# DEMO
 
-# DEMO  
-my Blog:[http://monianhello.top/warmatap/](http://monianhello.top/warmatap/)
+my Blog:http://monianhello.top/warmatap/
 
-GithubPage:[https://monianhello.github.io/WarmaTap/](https://monianhello.github.io/WarmaTap/)
+GithubPage:https://monianhello.github.io/WarmaTap/
