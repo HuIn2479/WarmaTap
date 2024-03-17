@@ -32,9 +32,3 @@ daniwell@aidn.jp
 ※ エグジットチューンズ管理楽曲（「Nyan Cat」や「ねこみみスイッチ」など）の商用利用につきましては、下記お問い合わせ窓口よりご連絡ください。
 http://exittunes.com/license/
 ```
-
-# DEMO
-
-my Blog:http://monianhello.top/warmatap/
-
-GithubPage:https://monianhello.github.io/WarmaTap/
